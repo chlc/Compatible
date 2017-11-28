@@ -1,0 +1,166 @@
+var friends = [
+  {
+      "name":"Chelsea",
+      "photo":"http://c8.alamy.com/comp/EPF1YW/nun-with-handgun-isolated-on-white-EPF1YW.jpg",
+      "scores":[
+         5,
+         1,
+         4,
+         4,
+         5,
+         1,
+         2,
+         5,
+         4,
+         1
+          ]
+      },
+  {
+  "name":"Trey",
+  "photo":"https://thumbs.dreamstime.com/z/depression-7767069.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     4,
+     5,
+     1,
+     2,
+     5,
+     4,
+     1
+      ]
+},
+{
+  "name":"Alycia",
+  "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREf93zPd2dr-oCBNoXuywTQ3lXoE-FijdKxJS39akEYbxBXRTR",
+  "scores":[
+     9,
+     1,
+     4,
+     4,
+     5,
+     1,
+     2,
+     5,
+     4,
+     1
+      ]
+},
+{
+  "name":"Ali",
+  "photo":"https://i.imgur.com/5mXfwr1.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Luke",
+  "photo":"https://www.teachprivacy.com/wp-content/uploads/Hacker-Fotolia_78857478_S.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Tyler",
+  "photo":"http://c8.alamy.com/comp/AYP827/happy-face-man-with-post-it-note-on-head-representing-depression-happy-AYP827.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Johnny",
+  "photo":"https://thumbs.dreamstime.com/z/happy-sad-young-man-holding-mask-33583064.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Kyle",
+  "photo":"http://www.apimages.com/Images/Ap_Creative_Stock_Header.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Jack",
+  "photo":"http://www.betootaadvocate.com/wp-content/uploads/2016/10/stock-photo-model.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+},
+{
+  "name":"Vanessa",
+  "photo":"http://www.suttonsilver.co.uk/wp-content/uploads/blog-stock-02.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     3,
+     2,
+     6,
+     9,
+     8,
+     9,
+     9
+      ]
+}
+
+];
+
+
+module.exports = friends;
