@@ -1,0 +1,27 @@
+{
+  "name": "compatible",
+  "version": "1.0.0",
+  "description": "FriendFinder compatibility application hw",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chlc/Compatible.git"
+  },
+  "keywords": [
+    "FriendFinder"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chlc/Compatible/issues"
+  },
+  "homepage": "https://github.com/chlc/Compatible#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
