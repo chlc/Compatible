@@ -19,6 +19,8 @@ app.use(bodyParser.raw({ type: 'application/vmd.custom-type' }));
 //make HTML body a string
 app.use(bodyParser.text({ type: 'text/html'}));
 
+require("./app/routing/html-routes.js")(app);
+
 app.listen(port, function(){
 	console.log("App Listening on port: " + port);
 });
